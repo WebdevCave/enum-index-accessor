@@ -1,6 +1,8 @@
 {
   "name": "webdevcave/enum-index-accessor",
-  "description": "A small router for your php application",
+  "description": "Dynamic index accessing made simple",
+  "license": "MIT",
+  "keywords": ["enum", "enumerator", "accessor", "extension"]
   "authors": [
     {
       "name": "Carlos Alberto Bertholdo Carucce",
